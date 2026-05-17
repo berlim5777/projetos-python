@@ -1,0 +1,6 @@
+nome = input("qual seu nome? ")
+qual_sua_idade = input("qual sua idade? ")
+qual_sua_cidade = input("qual sua cidade? ")
+print("seu nome e", nome)
+print("voce tem ", qual_sua_idade, "anos")
+print("voce mora em ", qual_sua_cidade)

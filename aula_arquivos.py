@@ -1,0 +1,6 @@
+Nome = input("qual seu nome? ")
+arquivo = open("teste nomes", "a")
+arquivo.write("\nultima pessoa a acessar esse cite : " +  Nome)
+arquivo = open("teste nomes", "r")
+print(arquivo.read())
+arquivo.close()

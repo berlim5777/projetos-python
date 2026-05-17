@@ -1,0 +1,5 @@
+print ("oi meu nome e daniel ")
+print("oi meu nome e dell ")
+print("oi dell vc e meu nootbook")
+print("sim sou")
+print("serio que legal")

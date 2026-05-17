@@ -1,0 +1,8 @@
+nome = input("nome? ")
+telefone = input("telefone? ")
+arquivo = open("lista telefonica", "a")
+arquivo.write("\ncontato: " + nome  +  telefone)
+arquivo = open("lista telefonica", "r")
+print("\ncontatos salvos: ")
+print(arquivo.read())
+arquivo.close()

@@ -1,0 +1,7 @@
+nome = input("qual e seu nome? ")
+idade = input("qual sua idade? ")
+Onde_voce_mora = input("qual e sua cidade? ")
+print("seu nome e", nome )
+print("voce tem", idade, "anos")
+print("e voce mora em", Onde_voce_mora, "cidade muito legal")
+print(" gostei de te conhecer")
