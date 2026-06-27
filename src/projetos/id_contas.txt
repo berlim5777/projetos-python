@@ -1,0 +1,10 @@
+
+
+
+
+nome:daniel  saldo:1500
+
+nome:danilo  saldo:0
+
+
+nome:guilherme  saldo:615
